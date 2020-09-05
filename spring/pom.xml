@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.neo</groupId>
-	<artifactId>spring-boot-web</artifactId>
+	<artifactId>spring</artifactId>
 	<version>1.0.01-SNAPSHOT</version>
 	<packaging>war</packaging>
 
